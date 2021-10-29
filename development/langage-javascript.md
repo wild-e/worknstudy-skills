@@ -8,36 +8,37 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les `structures` de base du langage ❌ / ✔️
-- les normes `ecmascript` ❌ / ✔️
-- l'utilisation de l'`asynchrone` ❌ / ✔️
-- les spécifités du mot-clef `this` ❌ / ✔️
+- les `structures` de base du langage ✔️
+- les normes `ecmascript` ✔️
+- l'utilisation de l'`asynchrone` ✔️
+- les spécifités du mot-clef `this`  ✔️
 
 ## 💻 Je code en Javascript
 
-### Un exemple de code commenté ❌ / ✔️
+### Un exemple de code commenté ✔️
 
 ```javascript
 (e) => mc2;
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[lien github](...)
-
-Description :
-
-### J'ai utilisé ce langage en production ❌ / ✔️
-
-[lien du projet](...)
+[WilderBook](https://github.com/wild-e/wilderbook-ts)
 
 Description :
 
-### J'ai utilisé ce langage en environement professionnel ❌ / ✔️
+### J'ai utilisé ce langage en production ✔️
+
+[Tualu](https://tualu.fr/
 
 Description :
 
+### J'ai utilisé ce langage en environement professionnel ✔️
+
+Description :
+[Tualu](https://tualu.fr/
 ## 🌐 J'utilise des ressources
+https://vuejs.org/v2/guide/
 
 ### Titre
 
@@ -49,10 +50,11 @@ Description :
 ### Point de blocage ❌ / ✔️
 
 Description:
+Difficulté sur l'algo
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
+- Réaliser des exercices sur codewars ❌ / ✔️
 - action 2 ❌ / ✔️
 - ...
 
